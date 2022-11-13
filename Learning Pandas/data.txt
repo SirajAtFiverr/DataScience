@@ -1,0 +1,4 @@
+name,age,marks
+Ali, 15, 720
+Ahmad, 17, 450
+Rajab, 18, 602
